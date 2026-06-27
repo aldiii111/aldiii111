@@ -40,23 +40,24 @@
 
 ### ✦ Featured Work
 
-**[DevConnect](https://github.com/aldiii111/dev-social-app)** 
+**[DevConnect](https://github.com/aldiii111/dev-social-app)** 🤝 `Collab`
 > *Fullstack web app where developers can find collaborators for projects.*
 
 | | |
 |---|---|
-| **Frontend** | React 19, TypeScript, TailwindCSS v4, Shadcn/UI, TanStack Query, React Hook Form + Zod, Socket.IO Client |
-| **Backend** | Express 5, TypeScript, Prisma ORM, PostgreSQL, JWT + Google OAuth |
+| **Frontend** | React 19, TypeScript, TailwindCSS v4, Shadcn/UI, TanStack Query, React Hook Form + Zod, Socket.IO Client <br> *(My Core Focus)* |
+| **Backend** | Express 5, TypeScript, Prisma ORM, PostgreSQL, JWT + Google OAuth <br> *(Built in collaboration with a friend)* |
 | **Highlights** | • Real-time collaboration posts <br> • Advanced form validation & state management <br> • Secure authentication <br> • Custom user profiles & tech stack filtering |
 
 <br>
 
-**[Food Ordering System](https://github.com/aldiii111/Foods-Orderings-Systems)** 
+**[Food Ordering System](https://github.com/aldiii111/Foods-Orderings-Systems)** 🤝 `Collab`
 > *Fullstack e-commerce application with a complete admin dashboard.*
 
 | | |
 |---|---|
-| **Tech Stack** | React, TypeScript, TailwindCSS, Express, Prisma, PostgreSQL |
+| **Frontend** | React, TypeScript, TailwindCSS <br> *(My Core Focus)* |
+| **Backend** | Express, Prisma, PostgreSQL <br> *(Built in collaboration with a friend)* |
 | **Highlights** | • Order tracking & cart management <br> • Image uploads via Multer <br> • Responsive admin dashboard |
 
 <br>
