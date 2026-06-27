@@ -10,23 +10,25 @@
   <br><br>
 
   <a href="mailto:hi.aldikurniawan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hi.aldikurniawan%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/hi.aldikurniawan%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=10B981" />
   </a>
   <a href="https://github.com/aldiii111">
-    <img src="https://img.shields.io/badge/GitHub-aldiii111-111111?style=for-the-badge&logo=github&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=10B981" />
   </a>
   <a href="https://aldi-kurniawan.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Online-111111?style=for-the-badge&logo=vercel&logoColor=10B981" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=10B981" />
   </a>
 </div>
 
-<br><br>
+<br>
 
-I'm Aldi, a 16-year-old student at SMK Muhammadiyah 1 Sukoharjo. I focus on frontend development, building interfaces that are fast, accessible, and visually striking. I care about user experience and love writing clean, maintainable code.
+<div align="center">
+  <p>I'm Aldi, a 16-year-old student at SMK Muhammadiyah 1 Sukoharjo.<br>I focus on frontend development, building interfaces that are fast, accessible, and visually striking.<br>I care about user experience and love writing clean, maintainable code.</p>
+</div>
 
 <br>
 
-### 💻 Tech Stack
+<h3 align="center">✦ Tech Stack</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- Animated hover effects on these icons automatically -->
@@ -34,59 +36,58 @@ I'm Aldi, a 16-year-old student at SMK Muhammadiyah 1 Sukoharjo. I focus on fron
   </a>
 </div>
 
+<br><br>
+
+### ✦ Featured Work
+
+| Project | Details |
+|---------|---------|
+| **[DevConnect](https://github.com/aldiii111/dev-social-app)** | **Collaboration platform for developers**<br><br>• Real-time collaboration posts<br>• Custom user profiles<br>• Secure authentication (Email + Google)<br><br>*React 19, TypeScript, TailwindCSS v4, Shadcn/UI, Express 5, Prisma, PostgreSQL, Socket.IO* |
+| **[Food Ordering System](https://github.com/aldiii111/Foods-Orderings-Systems)** | **Fullstack e-commerce application**<br><br>• Order tracking and cart management<br>• Admin dashboard<br>• Image uploads via Multer<br><br>*React, TypeScript, TailwindCSS, Express, Prisma* |
+| **[MyRecipe](https://github.com/aldiii111/My-Recipe)** | **Recipe discovery application**<br><br>• Resizable split panels<br>• Instant search<br>• Clean UI/UX focus<br><br>*React, Vite, TailwindCSS, Radix UI* |
+| **Portfolio Websites** | **Personal websites showcasing design**<br><br>• V1: Minimalist + LocalStorage CMS<br>• V2: Neo-Brutalism Design<br><br>*HTML, TailwindCSS, JavaScript* |
+
 <br>
 
-### 🚀 Featured Work
+### ✦ Explorations & Studies
 
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| **[DevConnect](https://github.com/aldiii111/dev-social-app)** | React 19, TypeScript, TailwindCSS v4, Shadcn/UI, Express 5, Prisma, PostgreSQL, Socket.IO | 🔐 Auth (Email + Google) <br> 📝 Real-time Collaboration Posts <br> 👤 Custom User Profiles |
-| **[Food Ordering System](https://github.com/aldiii111/Foods-Orderings-Systems)** | React, TypeScript, TailwindCSS, Express, Prisma | 🛒 Order Tracking & Cart <br> 📸 Image Uploads via Multer <br> 📊 Admin Dashboard |
-| **[MyRecipe](https://github.com/aldiii111/My-Recipe)** | React, Vite, TailwindCSS, Radix UI | 📖 Recipe Discovery <br> 📐 Resizable Split Panels <br> 🔍 Instant Search |
-| **Portfolio Websites** | HTML, TailwindCSS, JavaScript | 🎨 V1: Minimalist + LocalStorage CMS <br> ⚡ V2: Neo-Brutalism Design |
-
----
-
-### 🎮 More Explorations
-
-| Exploration | Description |
-|-------------|-------------|
-| **KasirJS** | Point-of-sale app built completely from scratch with vanilla JS. |
+| Focus Area | Description |
+|------------|-------------|
 | **UI Design Studies** | Exploring Neo-Brutalism, Glassmorphism, Retro, and Bento Grid layouts. |
-| **Logic Challenges** | Daily JavaScript problem-solving (Arrays, DOM, Async loops). |
+| **Vanilla JavaScript** | **KasirJS**: Point-of-sale app built completely from scratch without frameworks. |
+| **Logic Challenges** | Daily JavaScript problem-solving focusing on DOM manipulation and async logic. |
 
----
+<br>
 
-### 🌲 Learning Journey
+### ✦ Learning Architecture
 
-I believe in building in public and organizing my learning path:
+I believe in building in public and maintaining a structured learning path:
 
 ```text
-📁 Documents/
-├── 📂 learning/
-│   ├── 📂 javascript/     → 19 modules (DOM, Arrays, Async, Praktek 1-9)
-│   ├── 📂 react/          → 3 projects (Food Ordering, MyRecipe, etc.)
-│   ├── 📂 nextjs/         → Currently exploring Next.js basics
-│   ├── 📂 nodejs/         → PZN Node.js course
-│   └── 📂 project/        → 4 main projects (DevConnect, Portfolios)
-└── 📂 RepositoryGit/
-    ├── 📂 BelajarCoding/  → Layouts, JS Challenges, Portfolio Templates
-    ├── 📂 BelajarFlexbox/  → Flexbox & CSS Grid mastery
-    └── 📂 WorkshopWeb/     → GDG Workshop clone projects
+Documents/
+├─ learning/
+│  ├─ javascript/  (19 modules: DOM, Arrays, Async)
+│  ├─ react/       (3 projects: Food Ordering, MyRecipe, etc.)
+│  ├─ nextjs/      (Currently exploring Next.js basics)
+│  ├─ nodejs/      (Backend fundamentals)
+│  └─ project/     (Main projects: DevConnect, Portfolios)
+└─ RepositoryGit/
+   ├─ BelajarCoding/ (Layouts, Portfolio Templates)
+   └─ WorkshopWeb/   (GDG Workshop projects)
 ```
 
----
+<br>
 
-### 🎯 Current Focus
+### ✦ Current Focus
 
-- 🔨 Scaling **DevConnect** — improving the developer collaboration platform.
-- 📚 Deepening **React** & **TypeScript** expertise.
-- 🗄️ Mastering backend development with **Express & Prisma**.
-- 🌱 Exploring the **Next.js** framework ecosystem.
+• **DevConnect** — Scaling and improving the developer platform architecture.<br>
+• **React & TypeScript** — Deepening type safety and advanced React patterns.<br>
+• **Express & Prisma** — Mastering backend data modeling and API design.<br>
+• **Next.js** — Exploring Server Components and the Next.js ecosystem.
 
----
+<br>
 
-### 📈 GitHub Activity
+### ✦ Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aldiii111&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=737373" width="48%" />
