@@ -22,7 +22,7 @@
 
 <br><br>
 
-I'm Aldi, a 16-year-old student at SMK Muhammadiyah 1 Sukoharjo. I focus on frontend development, building interfaces that are fast, accessible, and visually striking. I care about user experience and write clean, maintainable code.
+I'm Aldi, a 16-year-old student at SMK Muhammadiyah 1 Sukoharjo. I focus on frontend development, building interfaces that are fast, accessible, and visually striking. I care about user experience and love writing clean, maintainable code.
 
 <br>
 
@@ -38,21 +38,55 @@ I'm Aldi, a 16-year-old student at SMK Muhammadiyah 1 Sukoharjo. I focus on fron
 
 ### 🚀 Featured Work
 
-**DevConnect** 
-> A collaboration platform for developers to find teammates. Features real-time sockets and secure authentication.
-> *React 19, TypeScript, TailwindCSS v4, Shadcn/UI, Express 5, Prisma, PostgreSQL, Socket.IO*
-
-**Food Ordering System** 
-> Fullstack e-commerce application with a complete admin dashboard and order tracking.
-> *React, TypeScript, TailwindCSS, Express, Prisma*
-
-**MyRecipe** 
-> Recipe discovery application with a focus on clean UI/UX and resizable panels.
-> *React, Vite, TailwindCSS, Radix UI*
+| Project | Tech Stack | Highlights |
+|---------|------------|------------|
+| **[DevConnect](https://github.com/aldiii111/dev-social-app)** | React 19, TypeScript, TailwindCSS v4, Shadcn/UI, Express 5, Prisma, PostgreSQL, Socket.IO | 🔐 Auth (Email + Google) <br> 📝 Real-time Collaboration Posts <br> 👤 Custom User Profiles |
+| **[Food Ordering System](https://github.com/aldiii111/Foods-Orderings-Systems)** | React, TypeScript, TailwindCSS, Express, Prisma | 🛒 Order Tracking & Cart <br> 📸 Image Uploads via Multer <br> 📊 Admin Dashboard |
+| **[MyRecipe](https://github.com/aldiii111/My-Recipe)** | React, Vite, TailwindCSS, Radix UI | 📖 Recipe Discovery <br> 📐 Resizable Split Panels <br> 🔍 Instant Search |
+| **Portfolio Websites** | HTML, TailwindCSS, JavaScript | 🎨 V1: Minimalist + LocalStorage CMS <br> ⚡ V2: Neo-Brutalism Design |
 
 ---
 
-### 📈 Activity
+### 🎮 More Explorations
+
+| Exploration | Description |
+|-------------|-------------|
+| **KasirJS** | Point-of-sale app built completely from scratch with vanilla JS. |
+| **UI Design Studies** | Exploring Neo-Brutalism, Glassmorphism, Retro, and Bento Grid layouts. |
+| **Logic Challenges** | Daily JavaScript problem-solving (Arrays, DOM, Async loops). |
+
+---
+
+### 🌲 Learning Journey
+
+I believe in building in public and organizing my learning path:
+
+```text
+📁 Documents/
+├── 📂 learning/
+│   ├── 📂 javascript/     → 19 modules (DOM, Arrays, Async, Praktek 1-9)
+│   ├── 📂 react/          → 3 projects (Food Ordering, MyRecipe, etc.)
+│   ├── 📂 nextjs/         → Currently exploring Next.js basics
+│   ├── 📂 nodejs/         → PZN Node.js course
+│   └── 📂 project/        → 4 main projects (DevConnect, Portfolios)
+└── 📂 RepositoryGit/
+    ├── 📂 BelajarCoding/  → Layouts, JS Challenges, Portfolio Templates
+    ├── 📂 BelajarFlexbox/  → Flexbox & CSS Grid mastery
+    └── 📂 WorkshopWeb/     → GDG Workshop clone projects
+```
+
+---
+
+### 🎯 Current Focus
+
+- 🔨 Scaling **DevConnect** — improving the developer collaboration platform.
+- 📚 Deepening **React** & **TypeScript** expertise.
+- 🗄️ Mastering backend development with **Express & Prisma**.
+- 🌱 Exploring the **Next.js** framework ecosystem.
+
+---
+
+### 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aldiii111&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=737373" width="48%" />
